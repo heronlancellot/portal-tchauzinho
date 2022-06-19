@@ -1,4 +1,4 @@
-<h1>Teste here: https://projeto-tchauzinho.heronlancellot.repl.co/</h1>
+<h1>Test here: https://projeto-tchauzinho.heronlancellot.repl.co/</h1>
 
 # Basic Sample Hardhat Project
 
